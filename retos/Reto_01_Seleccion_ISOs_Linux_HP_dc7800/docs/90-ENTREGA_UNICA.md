@@ -151,5 +151,4 @@ En conjunto, la selección garantiza diferentes niveles de exigencia, asegurando
 
 - https://lubuntu.me/
 - https://puppylinux.com/
-- https://www.bodhilinux.com/
-- Documentación oficial de Ubuntu 22.04 LTS
+- https://www.bodhilinux.com/ & https://www.bodhilinux.com/w/system-requirements/
