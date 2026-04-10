@@ -28,7 +28,9 @@ Tras una instalación sin problemas, el equipo arranca e inicia perfectamente, c
 ## 6. Capturas relacionadas
 ![Arranque](../assets/img/20-vm_iso_01/ArranqueLubuntu.png)
 ![Instalador](../assets/img/20-vm_iso_01/InstaladorLubuntu.png)
-- `assets/img/20-vm_iso_01/iso-01-resultado.png`
+![Resultado1](../assets/img/20-vm_iso_01/ResultadoLubuntu.png)
+![Resultado2](../assets/img/20-vm_iso_01/ResultadoLubuntu2.png)
+
 
 ## 7. Valoración
 Indica si esta ISO parece adecuada para el HP real.
