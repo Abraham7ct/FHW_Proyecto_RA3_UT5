@@ -3,7 +3,7 @@
 ## 1. Identificación del equipo
 - **Marca y modelo:HP Compaq dc7800** 
 - **Número o variante del equipo (si aparece):SFF**  
-- **Ubicación o identificación en el aula:**  
+- **Ubicación o identificación en el aula:PC grupo 1**  
 
 ## 2. Procesador
 - **Modelo de CPU:Intel Core 2 Duo E6750**  
