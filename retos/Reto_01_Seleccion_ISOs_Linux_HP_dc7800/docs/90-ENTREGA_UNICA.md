@@ -9,7 +9,7 @@
 **Curso:** Sistemas Microinformáticos y Redes / ASIR (UT5)  
 **Fecha:** 10/04/2026  
 
-[!Portada](../assets/img/00-portada/portada.png)
+![Portada](../assets/img/00-portada/Portada.png)
 ---
 
 ## 2. Introducción
