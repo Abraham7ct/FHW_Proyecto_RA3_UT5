@@ -26,7 +26,7 @@ Aparece la pantalla de inicio del instalador, selecciono mi idioma y procedo con
 Tras una instalación sin problemas, el equipo arranca e inicia perfectamente, como dije en otra parte del trabajo, esto no asegura al 100% que vaya a funcional en el equipo real del taller, ya que hay aspectos que no se pueden simular en la maquina virtual, como el chipset Intel Q35, la tarjeta gráfica integrada Intel GMA 3100 o el comportamiento real del disco duro mecánico (latencias físicas y velocidad real de lectura/escritura).
 
 ## 6. Capturas relacionadas
-![Arranque](retos/Reto_01_Seleccion_ISOs_Linux_HP_dc7800/assets/img/20-vm_iso_01/ArranqueLubuntu.png)
+![Arranque](../../assets/img/20-vm_iso_01/ArranqueLubuntu.png)
 ![Instalador](../assets/img/20-vm_iso_01/InstaladorLubuntu.png)
 ![Resultado1](../assets/img/20-vm_iso_01/ResultadoLubuntu.png)
 ![Resultado2](../assets/img/20-vm_iso_01/ResultadoLubuntu2.png)
