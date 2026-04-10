@@ -109,7 +109,11 @@ La máquina virtual se configuró para simular el equipo real con las siguientes
 **¿Se instala?** Sí  
 **¿Arranca después?** Sí  
 **Incidencias:** Posible lentitud en HDD virtual durante instalación  
-**Capturas:** (añadir capturas aquí)
+**Capturas:** 
+![Arranque](../assets/img/20-vm_iso_01/ArranqueLubuntu.png)
+![Instalador](../assets/img/20-vm_iso_01/InstaladorLubuntu.png)
+![Resultado1](../assets/img/20-vm_iso_01/ResultadoLubuntu.png)
+![Resultado2](../assets/img/20-vm_iso_01/ResultadoLubuntu2.png)
 
 ---
 
