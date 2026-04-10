@@ -18,8 +18,11 @@
 
 ## 4. Posibles riesgos o dudas
 Interfaz poco intuitiva para usuarios nuevos
+
 Menor compatibilidad con software moderno
+
 Puede no incluir todos los drivers necesarios
+
 
 ## 5. Papel dentro del plan
 - [ ] Opción principal
