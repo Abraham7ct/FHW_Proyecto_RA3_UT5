@@ -1,4 +1,4 @@
-##Configuración de la máquina virtual
+## Configuración de la máquina virtual
 
 ### Software utilizado  
 **Aplicación:** Oracle VM VirtualBox  
