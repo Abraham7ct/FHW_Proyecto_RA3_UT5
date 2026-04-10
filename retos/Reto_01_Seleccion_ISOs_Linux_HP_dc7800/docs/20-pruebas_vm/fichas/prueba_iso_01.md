@@ -27,6 +27,7 @@ Tras una instalación sin problemas, el equipo arranca e inicia perfectamente, c
 
 ## 6. Capturas relacionadas
 ![Arranque](../assets/img/20-vm_iso_01/ArranqueLubuntu.png)
+![Portada](../assets/img/00-portada/Portada.png)
 - `assets/img/20-vm_iso_01/iso-01-instalador.png`
 - `assets/img/20-vm_iso_01/iso-01-resultado.png`
 
