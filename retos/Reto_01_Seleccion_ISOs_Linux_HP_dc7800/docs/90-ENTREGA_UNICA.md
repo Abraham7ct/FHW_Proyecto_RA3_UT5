@@ -56,7 +56,7 @@ Las distribuciones se han seleccionado siguiendo los siguientes criterios:
 |-----|--------|--------------|------------|--------------|------------|----------|----------------|----------|
 | ISO 01 – Lubuntu | 22.04 LTS | 64 bits | 1 GB (2 GB recomendado) | 10–20 GB | ~2.5 GB | Fácil uso, buena compatibilidad, entorno ligero LXQt | Más pesada que otras opciones, rendimiento menor en HDD | Opción principal |
 | ISO 02 – Puppy Linux | Fossapup64 9.5 | 64 bits | 256 MB (512 MB recomendado) | 2–4 GB | ~300–400 MB | Muy ligera, arranque rápido en RAM | Menos intuitiva, menor compatibilidad software | Alternativa |
-| ISO 03 – Bodhi Linux | 7.0.0 | 64 bits | 512 MB (1 GB recomendado) | 5–10 GB | ~800 MB – 1 GB | Muy ligera, basada en Ubuntu, buen rendimiento | Menos software preinstalado, interfaz diferente | Respaldo |
+| ISO 03 – Bodhi Linux | 7.0.0 | 64 bits(version 32 bits en caso de emergencia) | 512 MB (1 GB recomendado) | 5–10 GB | ~800 MB – 1 GB | Muy ligera, basada en Ubuntu, buen rendimiento | Menos software preinstalado, interfaz diferente | Respaldo |
 
 ---
 
