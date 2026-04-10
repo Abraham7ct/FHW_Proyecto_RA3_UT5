@@ -20,7 +20,7 @@
 
 **Audio / vídeo / otros ajustes relevantes:**  
 - Gráficos: 128 MB de memoria de vídeo  
-- Controlador gráfico: VBoxSVGA    
+- Controlador gráfico: VMSVGA    
 - Firmware: BIOS (modo legacy)  
 
 ---
