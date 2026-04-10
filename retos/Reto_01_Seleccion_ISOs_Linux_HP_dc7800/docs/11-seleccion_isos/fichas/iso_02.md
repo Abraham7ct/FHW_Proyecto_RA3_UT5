@@ -17,11 +17,11 @@
 **Puppy Linux es una distribución extremadamente ligera diseñada para equipos antiguos. Puede ejecutarse completamente en RAM, lo que mejora significativamente el rendimiento en sistemas con disco duro lento. Es ideal como alternativa en caso de que otras distribuciones no funcionen correctamente.**
 
 ## 4. Posibles riesgos o dudas
-Interfaz poco intuitiva para usuarios nuevos
+- Interfaz poco intuitiva para usuarios nuevos
 
-Menor compatibilidad con software moderno
+- Menor compatibilidad con software moderno
 
-Puede no incluir todos los drivers necesarios
+- Puede no incluir todos los drivers necesarios
 
 
 ## 5. Papel dentro del plan
