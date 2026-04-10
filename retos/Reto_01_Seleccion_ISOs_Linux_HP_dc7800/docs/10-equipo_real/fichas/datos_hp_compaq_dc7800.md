@@ -3,7 +3,7 @@
 > Sustituye el contenido de ejemplo por los datos reales de tu equipo.
 
 ## 1. Identificación del equipo
-- **Marca y modelo:** HP Compaq dc7800
+- **Marca y modelo:HP Compaq dc7800** 
 - **Número o variante del equipo (si aparece):SFF**  
 - **Ubicación o identificación en el aula:**  
 
