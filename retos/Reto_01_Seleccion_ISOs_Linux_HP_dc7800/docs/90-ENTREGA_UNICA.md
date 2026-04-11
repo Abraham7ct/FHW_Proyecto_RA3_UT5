@@ -124,7 +124,10 @@ La máquina virtual se configuró para simular el equipo real con las siguientes
 **¿Se instala?** Sí (modo frugal o instalación ligera)  
 **¿Arranca después?** Sí  
 **Incidencias:** Interfaz poco intuitiva y configuración inicial manual  
-**Capturas:** (añadir capturas aquí)
+**Capturas:** 
+![Arranque](../assets/img/21-vm_iso_02/ArranquePuppy.png)
+![Inicio](../assets/img/21-vm_iso_02/InicioPuppy.png)
+![Instalador](../assets/img/21-vm_iso_02/InstaladorPuppy.png)
 
 ---
 
