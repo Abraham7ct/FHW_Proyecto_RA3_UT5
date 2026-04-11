@@ -138,7 +138,11 @@ La máquina virtual se configuró para simular el equipo real con las siguientes
 **¿Se instala?** Sí  
 **¿Arranca después?** Sí  
 **Incidencias:** Interfaz diferente a sistemas tradicionales, requiere adaptación  
-**Capturas:** (añadir capturas aquí)
+**Capturas:** 
+
+![Arranque](../assets/img/22-vm_iso_03/ArranqueBohdi.png)
+![Instalador](../assets/img/22-vm_iso_03/InstaladorBohdi.png)
+![Resultado](../assets/img/22-vm_iso_03/ResultadoBohdi.png)
 
 ---
 
