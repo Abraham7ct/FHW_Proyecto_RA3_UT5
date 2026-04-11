@@ -140,9 +140,9 @@ La máquina virtual se configuró para simular el equipo real con las siguientes
 **Incidencias:** Interfaz diferente a sistemas tradicionales, requiere adaptación  
 **Capturas:** 
 
-![Arranque](../assets/img/22-vm_iso_03/ArranqueBohdi.png)
-![Instalador](../assets/img/22-vm_iso_03/InstaladorBohdi.png)
-![Resultado](../assets/img/22-vm_iso_03/ResultadoBohdi.png)
+![Arranque](../assets/img/22-vm_iso_03/ArranqueBodhi.png)
+![Instalador](../assets/img/22-vm_iso_03/InstaladorBodhi.png)
+![Resultado](../assets/img/22-vm_iso_03/ResultadoBodhi.png)
 
 ---
 
