@@ -23,6 +23,6 @@ Antes de exportar a PDF, revisa este listado.
 
 ## Archivo final
 
-- [x]Guarda el PDF con el nombre:
+Guarda el PDF con el nombre:
 
-apellido1_apellido2_nombre_TareaXX.pdf
+`apellido1_apellido2_nombre_TareaXX.pdf`
