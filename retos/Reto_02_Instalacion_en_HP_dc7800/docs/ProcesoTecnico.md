@@ -10,19 +10,19 @@
 ## EJERCICIO 1. Preparación del Medio de Instalación (Ventoy)
 
 ### 1.1. Configuración del USB
-- **Herramienta:** Ventoy.  
-- **Método:** Instalación de Ventoy en el pendrive, ejecutando "Ventoy2Disk.exe" y copia de archivos mediante arrastrar y soltar.  
-- **Arquitectura:** Se han seleccionado ISOs de 64 bits para aprovechar el procesador Intel Core 2 Duo E6750.  
+- **Herramienta:** Ventoy (Version 1.1.11.  
+- **Método:** Instalación de Ventoy en el pendrive, ejecutando "Ventoy2Disk.exe" y copia de archivos ISO mediante arrastrar y soltar.  
+- **Arquitectura:** Las ISOs seleccionadas son de 64 bits para aprovechar el procesador Intel Core 2 Duo E6750.  
 
 ### 1.2. ISOs incluidas (Validadas en Reto 01)
-Se han incluido las tres opciones analizadas para garantizar el éxito de la instalación:
+Se han incluido las tres opciones analizadas en el Reto01 para garantizar el éxito de la instalación:
 
 - **Lubuntu 22.04 LTS:** Opción principal por su equilibrio y entorno LXQt.  
 - **Puppy Linux (Fossapup64 9.5):** Alternativa ligera para ejecución en RAM.  
 - **Bodhi Linux 7.0.0:** Respaldo basado en Ubuntu con escritorio Moksha.  
 
 **Captura de pantalla requerida:**  
-Mostrar el contenido del USB con los tres archivos `.iso` visibles.
+![USBVentoy](../img/USBVentoy.png)
 
 ---
 
