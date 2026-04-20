@@ -55,7 +55,7 @@ Dado que el equipo no posee UEFI, se han seguido estos pasos:
 ### 3.3. Pasos principales de la instalación
 - **Idioma y Teclado:** Configurado en español.  
 - **Conexión:** Instalación realizada sin conexión a internet.  
-- **Creación de usuario:** Nombre de usuario "Abraham" con privilegios de administrador.  
+- **Creación de usuario:** Nombre de usuario "FHW" con privilegios de administrador.  
 - **Copia de archivos:** Proceso de transferencia al HDD de 160 GB.  
 
 ### 3.4. Incidencias y soluciones encontradas
