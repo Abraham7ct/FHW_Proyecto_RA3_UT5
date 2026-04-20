@@ -3,15 +3,15 @@
 **Alumno:** Abraham Aparicio Moreno  
 **Grupo:** 1º ASIR  
 **Equipo:** HP Compaq dc7800 SFF  
-**Fecha de entrega:** 11/04/2026  
+**Fecha de entrega:** 24/04/2026  
 
 ---
 
 ## EJERCICIO 1. Preparación del Medio de Instalación (Ventoy)
 
 ### 1.1. Configuración del USB
-- **Herramienta:** Ventoy (versión más reciente) para soporte multiso.  
-- **Método:** Instalación de Ventoy en el pendrive y copia de archivos mediante arrastrar y soltar.  
+- **Herramienta:** Ventoy.  
+- **Método:** Instalación de Ventoy en el pendrive, ejecutando "Ventoy2Disk.exe" y copia de archivos mediante arrastrar y soltar.  
 - **Arquitectura:** Se han seleccionado ISOs de 64 bits para aprovechar el procesador Intel Core 2 Duo E6750.  
 
 ### 1.2. ISOs incluidas (Validadas en Reto 01)
