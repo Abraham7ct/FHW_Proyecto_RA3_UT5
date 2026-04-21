@@ -32,43 +32,50 @@ Se han incluido las tres opciones analizadas en el Reto01 para garantizar el éx
 Dado que el equipo no posee UEFI, se han seguido estos pasos:
 
 1. Inserción del USB preparado.  
-2. Encendido y pulsación de la tecla de menú de arranque (habitualmente F9 en HP).  
-3. Selección del dispositivo USB en el listado de arranque.  
+2. Encendido y pulsación de la tecla de menú de arranque (F9 en HP).  
+3. Selección del dispositivo USB en el listado de arranque.  habitualmente 
 
 ### 2.2. Interfaz de Ventoy en el HP Compaq dc7800
 - Se inicia el menú de Ventoy mostrando las tres opciones.  
-- **Elección inicial:** Lubuntu 22.04 LTS.  
+- **Elección inicial:** antiX 26_3.06 
 
 ---
 
 ## EJERCICIO 3. Documentación de la Instalación Final
 
 ### 3.1. Distribución instalada
-`[Escribir nombre de la ISO instalada]`
+antiX 26_3.06
 
 ### 3.2. Particionado aplicado
 - **Disco duro:** SATA de 160 GB (HDD mecánico).  
 - **Esquema de particiones:**  
-  - `[Ejemplo: Particionado automático usando todo el disco]`  
-  - `[Ejemplo: Partición / (raíz), /home y área de intercambio (SWAP) de 4GB]`
+ Hemos seleccionado la opcion de instalar utilizando todo el disco disponible, para que el sistema automaticamente se particione.
 
 ### 3.3. Pasos principales de la instalación
 - **Idioma y Teclado:** Configurado en español.  
 - **Conexión:** Instalación realizada sin conexión a internet.  
-- **Creación de usuario:** Nombre de usuario "FHW" con privilegios de administrador.  
-- **Copia de archivos:** Proceso de transferencia al HDD de 160 GB.  
+- **Creación de usuario:** Nombre de usuario "admin" con privilegios de administrador.  
+- **Particionado USB** Hemos usado el formato exFat en el usb Ventoy en el que teniamos las ISOs
+
+Imágenes del proceso:
+
+![paso1](../img/3.png)
+![paso2](../img/2.png)
+![paso3](../img/1.png)
+![paso4](../img/antiXconfiguracion.png)
+![paso5](../img/antiXinstalando.png)
 
 ### 3.4. Incidencias y soluciones encontradas
 
+Durante la instalación de la ISO de antiX no experimentamos ningun problema o complicación, por ello decidimos probar a intalar una ISO un poco más pesada como es la de Linux Mint, la cual si nos dió un fallo, quedándose la imagen congelada durante el proceso y el equipo sin responder.
+
 | Incidencia detectada | Solución aplicada |
 |----------------------|------------------|
-| [Ej: El instalador no reconoce el disco] | [Ej: Cambio de modo SATA en BIOS a AHCI/IDE] |
-| [Ej: Lentitud extrema en la carga] | [Ej: Se optó por Puppy Linux en lugar de Lubuntu por el HDD] |
-| [Ej: Fallo en resolución de pantalla] | [Ej: Uso de drivers genéricos Intel GMA 3100] |
+| Pantalla se queda congelada durante instalación| Ninguna, porque ya teniamos instalada la ISO de antiX previamente |
 
 ### 3.5. Resultado final
-- **¿El sistema arranca desde el disco duro?:** `[Sí/No]`  
-- **Rendimiento observado:** `[Fluido / Aceptable / Lento]`  
+- **¿El sistema arranca desde el disco duro?:** Sí
+- **Rendimiento observado:** Aceptable/Fluido
 
 **Captura de pantalla final:**  
-Foto del equipo real con el escritorio cargado y una terminal abierta mostrando el comando `neofetch` o las propiedades del sistema.
+![paso6](../img/antiXinstalado.png)
