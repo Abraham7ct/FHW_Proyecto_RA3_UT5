@@ -87,6 +87,6 @@ Durante la instalación de la ISO de antiX **no experimentamos ningun problema o
 
 #### Linux Mint:
 - **¿El sistema arranca desde el disco duro?:** Sí
-- **Rendimiento observado:** Lento/Freezing e imposibilidad de instalación
+- **Rendimiento observado:** Lento/Freezing
 
 ![LMint](../img/LinuxMint.png)
