@@ -68,17 +68,25 @@ Imágenes del proceso:
 
 ### 3.4. Incidencias y soluciones encontradas
 
-Durante la instalación de la ISO de antiX no experimentamos ningun problema o complicación, por ello decidimos probar a intalar una ISO un poco más pesada como es la de Linux Mint, la cual si nos dió un fallo, quedándose la imagen congelada durante el proceso y el equipo sin responder.
+Durante la instalación de la ISO de antiX **no experimentamos ningun problema o complicación**, por ello decidimos probar a intalar una ISO un poco más pesada como es la de Linux Mint, de la cual nos esperábamos el fallo, ya que en la anterior sesion de taller, tuvimos que quitarle 3 de las 4 memorias RAM que tenía, quedando así con 1 solo GB de RAM, por lo que si nos dió un fallo, quedándose la imagen congelada durante el proceso y el equipo sin responder(probablemente por no poder cumplir los requisitos de RAM demandados por el SO).
 
 | Incidencia detectada | Solución aplicada |
 |----------------------|------------------|
-| Pantalla se queda congelada durante instalación| Ninguna, porque ya teniamos instalada la ISO de antiX previamente |
-
-![LMint](../img/LinuxMint.png)
+| Pantalla se queda congelada durante instalación| Ninguna, porque ya teniamos instalada la ISO de antiX previamente, solo queríamos probar un SO que pudiese dar un problema |
 
 ### 3.5. Resultado final
+
+#### AntiX:
 - **¿El sistema arranca desde el disco duro?:** Sí
-- **Rendimiento observado:** Aceptable/Fluido
+- **Rendimiento observado:** Aceptable, Fluido, sin problemas observados.
 
 **Captura de pantalla final:**  
 ![paso6](../img/antiXinstalado.png)
+
+
+
+#### Linux Mint:
+- **¿El sistema arranca desde el disco duro?:** Sí
+- **Rendimiento observado:** Lento/Freezing e imposibilidad de instalación
+
+![LMint](../img/LinuxMint.png)
