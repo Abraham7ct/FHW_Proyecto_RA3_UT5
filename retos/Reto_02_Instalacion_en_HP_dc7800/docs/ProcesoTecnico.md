@@ -11,7 +11,7 @@
 
 ### 1.1. Configuración del USB
 - **Herramienta:** Ventoy (Version 1.1.11.  
-- **Método:** Instalación de Ventoy en el pendrive, ejecutando "Ventoy2Disk.exe" y copia de archivos ISO mediante arrastrar y soltar.  
+- **Método:** Instalación de Ventoy en el pendrive (en mi caso un TOSHIBA de 16GB), ejecutando "Ventoy2Disk.exe", con formato exFAT y copia de archivos ISO mediante arrastrar y soltar.  
 - **Arquitectura:** Las ISOs seleccionadas son de 64 bits para aprovechar el procesador Intel Core 2 Duo E6750.  
 
 ### 1.2. ISOs incluidas (Validadas en Reto 01)
@@ -33,7 +33,8 @@ Dado que el equipo no posee UEFI, se han seguido estos pasos:
 
 1. Inserción del USB preparado.  
 2. Encendido y pulsación de la tecla de menú de arranque (F9 en HP).  
-3. Selección del dispositivo USB en el listado de arranque.  habitualmente 
+3. Selección del dispositivo USB en el listado de arranque.
+4. Guardar y salir
 
 ### 2.2. Interfaz de Ventoy en el HP Compaq dc7800
 - Se inicia el menú de Ventoy mostrando las tres opciones.  
@@ -72,6 +73,8 @@ Durante la instalación de la ISO de antiX no experimentamos ningun problema o c
 | Incidencia detectada | Solución aplicada |
 |----------------------|------------------|
 | Pantalla se queda congelada durante instalación| Ninguna, porque ya teniamos instalada la ISO de antiX previamente |
+
+![LMint](../img/LinuxMint.png)
 
 ### 3.5. Resultado final
 - **¿El sistema arranca desde el disco duro?:** Sí
